@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Model Interface</h1>
+        <div>
+            <input type="radio" id="cmdRadio" name="platform" value="cmd" checked>
+            <label for="cmdRadio">CMD</label>
+            <input type="radio" id="linuxRadio" name="platform" value="linux">
+            <label for="linuxRadio">Linux</label>
+        </div>
+        <label for="userInput">Enter a description:</label>
+        <input type="text" id="userInput" placeholder="Type here...">
+        <button onclick="search()">Search</button>
+        <div id="predictions"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</body>
+
+</html>

@@ -1,0 +1,270 @@
+,name,description1,description2,description3,description4,description5,description6
+0,&,Start a new process in the background,Execute a command in the background,Launch a process asynchronously,Background execution of a command,Commence a process in the background,Run a command detached from the terminal and facilitate parallel task execution.
+1,alias,Create an alias ,Establish a shorthand or alternative name for a command,Define a custom shortcut for frequently used commands,Set up a user-defined shortcut to represent a longer command string,assign a mnemonic or abbreviated name to a command,Create and manage custom command aliases for improved command-line efficiency
+2,apropos,Search Help manual pages ( man -k ),Look up relevant manual pages based on keywords,Find commands and documentation related to specific keywords,Search the manual pages for commands or topics matching a given keyword,discover and retrieve information from the manual pages,Explore and locate relevant commands in the manual pages
+3,apt,Search for and install software packages (Debian/Ubuntu),"Explore, install, and manage software packages on Debian and Ubuntu systems","search for, download, and install software packages on Debian and Ubuntu distributions",Manage software installations and updates conveniently with the Debian/Ubuntu package manager,Search the package repository and install software seamlessly ,Access and install software packages effortlessly on Debian and Ubuntu systems
+4,apt-get,Search for and install software packages (Debian/Ubuntu),"Discover, download, and install software packages on Debian and Ubuntu systems","Execute package management tasks, including installation and removal",Search and manage software packages on Debian/Ubuntu systems ," Perform software package operations, such as installation and updates",Access a comprehensive set of package management functions for Debian/Ubuntu
+5,aptitude,Search for and install software packages (Debian/Ubuntu),"Explore, install, and manage software packages on Debian and Ubuntu systems","search for, download, and install software packages on Debian and Ubuntu distributions",Manage software installations and updates conveniently ,Search the package repository and install software,Access and install software packages effortlessly on Debian and Ubuntu systems
+6,aspell,Spell Checker,Check and correct spelling errors in documents,perform spell checks and identify and correct misspelled words,Access a robust spell-checking tool in the command line,Correct spelling mistakes and ensure accurate text,Enhance document quality efficient spell checking
+7,at,Schedule a command to run once at a particular time,set up one-time scheduled tasks for specified execution times,Schedule a command to run at a specific time in the future,plan and execute commands at designated times for single-run tasks,Set up one-time command executions at a specified time,scheduling and automating tasks to run at predetermined times
+8,awk,"Find and Replace text, database sort/validate/index","text processing, finding and replacing, sorting, validating, and indexing databases","perform intricate text manipulations, including find and replace operations and database-related tasks like sorting and validation","efficient text processing, finding and replacing patterns, and managing databases through sorting, validation, and indexing","Perform text-based tasks such as find and replace, along with database-related operations like sorting and validation","Enhance text and database processing capabilities facilitating find and replace as well as sorting, validating, and indexing operations"
+9,basename,Strip directory and suffix from filenames,extract the base filename by removing the directory path and suffix,Remove directory information and file suffixes revealing the core filename,"Strip both directory paths and file suffixes, leaving only the essential filenames",Extract the base filenames by eliminating directory structures and suffixes,Enhance file manipulation by isolating filenames from their directory paths and suffixes
+10,base32,Base32 encode/decode data and print to standard output,"encode and decode data in Base32 format, with the results printed to the standard output",Perform Base32 encoding and decoding operations on data and display the results on the standard output,Encode or decode data in Base32 format and output the results to the standard output,"encoding and decoding data in Base32, with the processed output directed to the standard output","Enhance data interchange encoding and decoding, with results presented on the standard output"
+11,base64,Base64 encode/decode data and print to standard output,"encoding and decoding data in Base64 format, with the results printed to the standard output",Perform Base64 encoding and decoding operations on data and display the results on the standard output,Encode or decode data in Base64 format and output the results to the standard output,"encoding and decoding data in Base64, with the processed output directed to the standard output","Enhance data interchange encoding and decoding, with results presented on the standard output"
+12,bash,GNU Bourne-Again SHell,Access the GNU Bourne-Again Shell for a feature-rich and versatile command-line environment,Interact with the powerful GNU Bourne-Again Shell to execute commands and manage the system,GNU shell for a comprehensive command-line experience with scripting capabilities,Navigate and control the system using the GNU Bourne-Again Shell for command-line operations,Leverage the features of the GNU Bourne-Again Shell for efficient command-line interaction and scripting
+13,bc,Arbitrary precision calculator language,arbitrary precision calculator language for precise numerical calculations,Perform complex and high-precision calculations arbitrary precision calculator language,accurate and arbitrary precision mathematical calculations,"versatile calculator language supporting arbitrary precision, suitable for intricate numeric tasks",Enhance numeric computation precision arbitrary precision calculator language
+14,bg,Send to background,move a suspended or backgrounded task to the background for continued execution,"shift a stopped or background job to the background, allowing other tasks to run in the foreground",Move a process or job to the background freeing up the terminal for additional commands,"resume the execution of a stopped job in the background, enabling concurrent task handling",Enhance task management by sending processes to the background 
+15,bind,Set or display readline key and function bindings,configure and display key mappings and function bindings in the readline library,Manage and customize keybindings for readline functions,Configure key and function associations providing personalized control over command-line editing,Access and modify readline key and function bindings enhanced command-line experience,Enhance command-line efficiency by setting and reviewing key mappings and function bindings
+16,break,Exit from a loop,terminate the execution of a loop prematurely,exit from a loop before completing all iterations based on a specified condition,Interrupt the execution of a loop and exit immediately,"prematurely exit a loop, providing control over loop execution flow",Enhance loop control to exit from the loop under certain conditions
+17,builtin,Run a shell builtin,"execute a shell builtin command, which is a command that is part of the shell itself",Execute a shell builtin command leveraging internal functionalities of the shell,Access and run built-in commands directly within the shell environment,"invoke shell built-in commands, taking advantage of the shell's internal capabilities",Enhance command execution efficiency by running shell built-in commands
+18,bzip2,Compress or decompress named file(s),"compress or decompress files, reducing their size for efficient storage and transfer",Perform file compression and decompression operations to optimize storage and transmission,Compress or decompress specified files employing the BZip2 compression algorithm,"efficient file compression and decompression, reducing file sizes with the BZip2 algorithm",Enhance file management for compression and decompression tasks
+19,cal,Display a calendar,"view a textual representation of a calendar, providing an overview of days, weeks, and months",Display a calendar on the command line presenting a visual representation of dates and days,Access a textual calendar representation aiding in date and day reference,"quickly view a calendar, facilitating date and day identification from the command line",Enhance time awareness by displaying a calendar offering a convenient overview of dates
+20,caller,Return the context of any active subroutine call,retrieve information about the context of an active subroutine call in a script or program,Obtain details about the active subroutine call's context aiding in program flow analysis,Access information on the calling context of a subroutine for debugging or tracing purposes,"inspect the context of an active subroutine call, providing insights into the program's execution",Enhance debugging capabilities examine the context of subroutine calls
+21,case,Conditionally perform a command,scripting to evaluate multiple conditions and execute commands based on the matching case,"perform conditional command execution, offering a flexible branching mechanism in shell scripts","structured conditional branching, allowing the execution of specific commands based on matching conditions",Implement conditional command execution providing a clear and organized approach to handling multiple cases,Enhance script readability and flexibility for conditionally performing commands based on specified conditions
+22,cat,Concatenate and print (display) the content of files,concatenate and display the contents of one or more files on the terminal,Display the concatenated content of specified files facilitating file content examination,Concatenate and print the content of files sequentially enabling easy file content inspection,"concatenating and printing file contents, streamlining the display of text from multiple files",Enhance file content visibility to concatenate and print the text contents of files
+23,cd,Change Directory,change the current working path directory in the shell,Navigate and switch between directories path,Change the active directory path,"move between directories path , updating the shell's current working location",change the working directory path within the shell
+24,cfdisk,Partition table manipulator for Linux,"partition table manipulator for Linux systems, providing a text-based interface for managing disk partitions",Manage disk partition tables efficiently offering a user-friendly interface for partition manipulation,"manipulate and modify disk partition tables on Linux systems, streamlining partition management tasks",interactively manipulate and configure disk partitions on Linux systems,Enhance partition management  tool designed for manipulating partition tables on Linux
+25,chattr,Change file attributes on a Linux file system,"modify file attributes on a Linux file system, providing control over file behaviors and characteristics","Adjust and customize file attributes allowing for changes to immutable, append-only, and other attributes",Enhance file management on a Linux file system manipulate file attributes,"modify file attributes, providing advanced control over file properties and behaviors on a Linux system",Empower file system management enabling the customization of various file attributes on Linux
+26,chgrp,Change group ownership,modify the group ownership of files or directories in a Linux or Unix-like operating system,Adjust and set group ownership providing control over the group association of specified files,Enhance file and directory management change the group ownership on a Linux system,"modify group ownership, allowing for precise control over file and directory group associations",Empower group management tasks enabling the customization of group ownership for specified files and directories.
+27,chmod,Change access permissions,modify and set access permissions for files and directories on a Linux or Unix-like system,"Adjust file and directory permissions granting or restricting access rights for users, groups, and others",Enhance security and control change access permissions on files and directories,"customize file permissions, allowing precise control over read, write, and execute permissions",Empower permission management enabling the fine-tuning of access rights for specified files and directories
+28,chown,Change file owner and group,modify the ownership of files and directories on a Linux or Unix-like system,Adjust file and directory ownership allowing changes to both the user and group ownership,"Enhance file management change ownership, providing control over user and group associations","customize file and directory ownership, facilitating administrative control and user assignment",Empower ownership management tasks enabling the customization of both user and group ownership for specified files and directories
+29,chpasswd,Update passwords in batch mode,"update user passwords in batch mode, allowing for efficient and automated password changes",Automate the process of updating user passwords,Enhance password management to update passwords for multiple users in a streamlined and automated manner,Streamline password updates for multiple users providing a batch-oriented approach to password changes,Empower batch password management tasks facilitating simultaneous updates for multiple user accounts
+30,chroot,Run a command with a different root directory,"execute a command or run a shell with an altered root directory, creating a isolated environment",Change the root directory for command execution isolating processes within a specified directory,Enhance system security and testing to run commands within a confined root directory,"create chroot environments, isolating processes and providing a restricted root directory for command execution",Empower system administration and testing tasks to run commands within a customized root directory
+31,chkconfig,System services (runlevel),manage and configure system services based on runlevels in a Linux environment,Configure system services for different runlevels allowing for flexible service management,Enhance system administration tasks to control the activation and deactivation of services across runlevels,manipulate the automatic startup configuration of services in various runlevels on a Linux system,Empower service management and runlevel configuration providing control over system services
+32,cksum,Print CRC checksum and byte counts,calculate and display the CRC checksum and byte counts for files in a Unix-like environment,Generate CRC checksums and byte counts for specified files aiding in file integrity verification,Enhance file integrity checks to print CRC checksums and byte counts for individual files,"checksum calculations, providing a quick and efficient means of verifying file integrity through CRC values and byte counts",Empower file validation tasks displaying CRC checksums and byte counts for comprehensive integrity verification
+33,cmp,Compare two files,compare the contents of two files and identify differences or similarities,Perform file comparison providing insights into the discrepancies or matches between two files,Enhance file analysis to compare and highlight differences between specified files,"efficient file comparison, aiding in the detection of variations between two files",Empower file verification tasks facilitating the comparison of contents between two files
+34,comm,Compare two sorted files line by line,"compare the contents of two sorted files, displaying lines unique to each file and common lines",Conduct a line-by-line comparison of two sorted files providing categorized output for distinct and shared lines,Enhance file analysis to compare and categorize lines from two sorted files,"efficient comparison of sorted files, distinguishing unique and common lines between the two",Empower file comparison tasks offering a systematic view of differences and similarities between sorted files
+35,command,Run a command - ignoring shell functions ,execute a specified command while bypassing any associated shell functions,Execute a command without considering shell functions in a Unix-like environment,Enhance command execution to ignore shell functions associated with the specified command,"streamlined command execution, disregarding any shell functions that might interfere with the specified command",Empower command-line tasks providing a direct and function-agnostic approach to executing commands
+36,continue,Resume the next iteration of a loop ,within a loop to skip the remaining statements and proceed to the next iteration,bypass the remaining code in a loop and initiate the next iteration,Enhance loop control flow to skip to the next iteration based on a specified condition,"facilitate efficient loop execution, skipping to the next iteration as needed for conditional logic",Empower loop structures allowing for fine-grained control over the flow of iterations
+37,cp,Copy one or more files to another location,"duplicate files or directories, creating copies at a specified destination",Copy files from one location to another facilitating file replication and backup tasks,Enhance file management to create copies of files or directories in a targeted location,"efficient file duplication, allowing for the creation of identical copies in a designated destination",Empower file copying tasks providing a versatile tool for replicating files and directories
+38,cpio,Copy files to and from archives,"create or extract files to and from archives, providing a versatile archive management tool",Archive files and directories enabling efficient storage and retrieval of data,Enhance backup and archival tasks to create and manage archives of files and directories,"seamless copying of files to and from archives, supporting various archive formats",Empower archive-related operations offering a flexible solution for copying and managing file archives
+39,cron,Daemon to execute scheduled commands,schedule and automate the execution of commands or scripts at predefined intervals,Automate recurring tasks by configuring scheduled commands daemon in Unix-like operating systems,Enhance task automation and scheduling facilitating the execution of commands at specified times,"efficient job scheduling, automating the execution of commands or scripts according to a predefined schedule",Empower time-based task management offering a reliable and flexible solution for scheduled command execution
+40,crontab,Schedule a command to run at a later time,manage and schedule periodic execution of commands or scripts in a Unix-like environment,Configure and customize scheduled tasks allowing for automated command execution at specified intervals,Enhance time-based job scheduling providing flexibility in executing commands at specific times,"efficient and automated task scheduling, specifying commands to run periodically according to a user-defined schedule",Empower time management facilitating the scheduling of commands or scripts for execution at predefined times
+41,csplit,Split a file into context-determined pieces,divide a file into sections based on specified context or patterns,Split files into distinct parts offering flexibility in dividing content based on contextual criteria,Enhance file manipulation to create sections or segments based on user-defined patterns,"efficient file splitting, allowing the division of content into contextually determined pieces",Empower content organizationproviding a versatile solution for splitting files based on specified contexts or patterns
+42,curl,Transfer data  from or to a server,"perform data transfers over various protocols, including HTTP, HTTPS, FTP, and more",Facilitate data exchange with servers supporting both downloading and uploading of content,Enhance network interactions enabling the transfer of data between the local machine and remote servers,"versatile and efficient data transfers, making it a powerful command-line tool for interacting with web services and servers",Empower scripting and automation tasks providing a flexible and feature-rich solution for transferring data to and from servers
+43,cut,Divide a file into several parts,"extract specific columns or sections from a file, dividing it into distinct parts",Divide and filter file content providing the ability to extract specified fields or columns,Enhance text processing to segment files into parts based on defined delimiter or character positions,"precise content extraction, allowing the division of files into specified parts for analysis or manipulation",Empower text extraction tasks offering a versatile solution for dividing files into specific segments
+44,date,Display or change the date & time,view the current date and time or modify the system date and time settings,Display the system date and time providing a snapshot of the current date and time,Enhance system administration tasks to set or adjust the date and time on a Unix-like system,"time-related operations, allowing for the display or modification of the system's date and time",Empower time management tasks offering a versatile solution for working with date and time settings
+45,dc,Desk Calculator,desk calculator to perform arithmetic operations in a reverse-polish notation (RPN) environment,Perform mathematical calculations leveraging its reverse-polish notation approach for efficient and stack-based computation,"Enhance numeric calculations desk calculator, supporting a variety of arithmetic operations","versatile and stack-oriented calculations, making it a powerful command-line tool for numeric expressions",Empower mathematical computations providing a flexible and efficient desk calculator in a Unix-like environment
+46,dd,"Data Duplicator - convert and copy a file, write disk headers, boot records","versatile data duplicator to copy files, convert data, and write disk headers or boot records","efficient file copying and low-level disk operations, supporting a wide range of data manipulation tasks","Enhance disk-related tasks duplicate data, write headers, or perform other block-level operations","disk imaging, file copying, and data conversion, making it a powerful and flexible tool for data manipulation","Empower disk-related operations offering precise control over data duplication, conversion, and low-level disk activities"
+47,ddrescue,Data recovery tool,"data recovery tool to copy data from one file or block device to another, emphasizing error-tolerant and efficient recovery","robust data recovery, designed to handle damaged or failing storage media with resilience",Enhance data retrieval from damaged devices providing advanced capabilities for recovering unreadable or faulty sectors,"effective data rescue, offering a specialized tool for recovering information from problematic or corrupted storage devices",Empower data recovery tasks supporting the retrieval of data from damaged or compromised storage media
+48,declare,Declare variables and give them attributes,"define variables in a shell script, assigning attributes such as data type or scope","explicit variable declaration in shell scripts, providing control over variable characteristics",Enhance variable management to specify attributes like data type and visibility,"variable definition with specified attributes, allowing for precise control over variable behavior",Empower shell scripting offering a tool for declaring variables with custom attributes for enhanced script control
+49,df,Display free disk space,"provide information on available disk space, displaying details such as total, used, and available space on mounted file systems",Obtain an overview of disk usage and available space presenting a concise summary of file system statistics,Enhance disk space management to monitor and analyze the usage and availability of storage on a system," efficient disk space analysis, presenting a clear breakdown of file system capacity and utilization",Empower system administrators offering a quick and informative tool for assessing free disk space on mounted file systems
+50,diff,Display the differences between two files,"compare and present the variances between two text files, indicating changes line by line",Conduct file comparison providing a clear and detailed view of the differences between two specified files,"Enhance version control and file analysis to highlight changes, additions, and deletions between files","efficient file comparison, allowing the identification and visualization of discrepancies between two text files",Empower content analysis tasks offering a versatile tool for displaying and understanding the differences between two files
+51,diff3,Show differences among three files,"display and reconcile differences among three text files, presenting a merged view of changes",Compare and analyze differences between three specified files providing a comprehensive overview of discrepancies,Enhance collaboration and version control command to visualize and resolve differences in a three-way file comparison,"effective merging and conflict resolution, showcasing variations in content among three text files",Empower collaborative editing tasks offering a tool for understanding and reconciling differences in a tripartite file comparison
+52,dig,DNS lookup,"perform Domain Name System (DNS) lookups, retrieving information such as IP addresses, name servers, and other DNS-related data",Conduct DNS queries providing a versatile tool for obtaining detailed information about domain names and their associated records,Enhance network troubleshooting and analysis to investigate DNS configurations and resolve domain-related information,"efficient DNS exploration, offering insights into domain name resolution, authoritative servers, and DNS record details",Empower network administrators providing a flexible and informative tool for DNS lookup and analysis
+53,dir,Briefly list directory contents,display a concise listing of files and directories in the current working directory,Obtain a quick overview of directory contents presenting a summary of files and subdirectories,Enhance file system navigation to provide a brief and informative directory listing,"efficient directory exploration, offering a simple and informative view of the files and folders in the current location",Empower users offering a straightforward and quick means of listing directory contents in a Unix-like environment
+54,dircolors,Colour setup for 'ls',"customize and set up color configurations for the 'ls' command, enhancing the visual representation of file listings",Customize the color scheme used by the 'ls' command allowing for personalized and visually distinguishable file and directory listings,Enhance file system navigation and readability to define color attributes for different file types and statuses in 'ls' output,"effective color setup, providing a means to tailor the appearance of file listings based on file types, permissions, and other attributes",Empower users offering a flexible tool for customizing the color scheme used by the 'ls' command in a Unix-like environment
+55,dirname,Convert a full pathname to just a path,"extract and display the directory portion of a full file path, excluding the filename",Extract directory information from a full pathname providing a simple means of obtaining the path without the filename,Enhance file path manipulation to isolate and present the directory component of a given full path,"efficient path extraction, offering a convenient way to obtain the directory part of a complete file path",Empower shell scripting and file management tasks providing a versatile tool for working with file paths in a Unix-like environment
+56,dirs,Display list of remembered directories,"show the list of directories stored in the directory stack, providing a history of previously visited directories",Access and view the directory history presenting a chronological list of remembered directories.,Enhance directory navigation and recall to display the stored history of directories in the directory stack.,"efficient directory tracking, offering a quick overview of previously visited directories in the current shell session",Empower users providing a convenient tool for reviewing and utilizing the directory history in a Unix-like environment
+57,dos2unix,Windows/MAC to UNIX text file format converter,"convert text files from Windows or MAC format to the Unix/Linux format, adjusting line endings for compatibility","cross-platform text file conversion, ensuring consistent line endings suitable for Unix-based systems","Enhance file compatibility to convert text files, addressing differences in line endings between Windows/MAC and Unix","streamlined text file format conversion, offering a tool to standardize line endings for Unix compatibility",Empower file preparation tasks providing a solution to convert text files to the Unix/Linux format for improved interoperability
+58,dmesg,Print kernel & driver messages,"display kernel and driver messages, providing insights into system-level events and hardware-related information",Access and review kernel logs offering a real-time display of messages from the operating system's kernel and drivers,Enhance system troubleshooting to print detailed messages related to the kernel and loaded drivers,"efficient diagnosis of hardware and kernel-related issues, offering a tool for monitoring and analyzing system-level messages",Empower system administrators providing a valuable resource for examining kernel and driver activities in a Unix-like environment
+59,dpkg,Package manager  (Debian/Ubuntu).,"package manager for Debian-based systems, including Ubuntu, for installation, removal, and management of software packages",Manage software packages on Debian/Ubuntu systems offering a low-level package management tool for direct control over package operations,"Enhance system administration to install, uninstall, and query packages, providing detailed control over the software ecosystem","package management tasks, offering a powerful command-line interface for handling software installation, removal, and maintenance",Empower administrators and users providing essential functionality for managing software packages on Debian and Ubuntu distributions
+60,du,Estimate file space usage,calculate and display an estimate of file space usage in a directory and its subdirectories,Obtain a summary of disk space usage providing a breakdown of the sizes of files and directories in a specified location,Enhance disk space analysis to estimate and report the space occupied by files and directories in a file system,"efficient disk usage monitoring, offering a tool for understanding the distribution of space within a file hierarchy",Empower system administrators and users providing a valuable resource for estimating and analyzing file space usage in a Unix-like environment
+61,echo,Display message on screen ,"print messages or variables to the terminal or console, providing a straightforward means of output",Output text or variable content to the screen offering a simple and versatile method of displaying information,Enhance script output and user interaction to convey messages or information in a terminal environment,"efficient message display, making it a fundamental tool for script output, debugging, and communication with users",Empower shell scripting and command-line tasks providing a basic yet essential utility for printing messages in a Unix-like environment
+62,egrep,Search file(s) for lines that match an extended expression,"search for lines in one or more files that match a specified extended regular expression, offering advanced pattern matching",Conduct file content searches providing a versatile tool for identifying lines that adhere to extended regular expression patterns,Enhance pattern matching capabilities to search for complex and extended patterns within text files,"efficient content filtering, allowing the identification of lines that meet extended regular expression criteria in specified files",Empower users offering a powerful and flexible utility for extended regular expression-based searches in a Unix-like environmen
+63,eject,Eject removable media,"safely and physically eject removable media such as CDs, DVDs, or external drives from the system",Safely remove and eject removable media offering a convenient and controlled way to disconnect external storage devices,"Enhance device management to safely eject removable media, preventing data loss or damage to storage devices","efficient media ejection, providing a command-line interface for removing physical media from compatible drives",Empower users offering a reliable and straightforward tool for ejecting removable media in a Unix-like environment
+64,enable,Enable and disable builtin shell commands,,,,,
+65,env,Environment variables,,,,,
+66,eval,Evaluate several commands/arguments,,,,,
+67,exec,Execute a command,,,,,
+68,exit,Exit the shell,,,,,
+69,expand,Convert tabs to spaces,,,,,
+70,export,Set an environment variable,,,,,
+71,expr,Evaluate expressions,,,,,
+72,FALSE,"Do nothing, unsuccessfully",,,,,
+73,fdformat,Low-level format a floppy disk,,,,,
+74,fdisk,Partition table manipulator for Linux,,,,,
+75,fg,Send job to foreground,,,,,
+76,fgrep,Search file(s) for lines that match a fixed string,,,,,
+77,file,Determine file type,,,,,
+78,find,Search for files that meet a desired criteria,,,,,
+79,fmt,Reformat paragraph text,,,,,
+80,fold,Wrap text to fit a specified width,,,,,
+81,for,"Expand words, and execute commands",,,,,
+82,fsck,File system consistency check and repair,,,,,
+83,ftp,File Transfer Protocol,,,,,
+84,function,Define Function Macros,,,,,
+85,fuser,Identify/kill the process that is accessing a file,,,,,
+86,gawk,Find and Replace text within file(s),,,,,
+87,getopts,Parse positional parameters,,,,,
+88,getfacl,Get file access control lists,,,,,
+89,grep,Search file(s) for lines that match a given pattern,,,,,
+90,groupadd,Add a user security group,,,,,
+91,groupdel,Delete a group,,,,,
+92,groupmod,Modify a group,,,,,
+93,groups,Print group names a user is in,,,,,
+94,gzip,Compress or decompress named file(s),,,,,
+95,hash,Remember the full pathname of a name argument,,,,,
+96,head,Output the first part of file(s),,,,,
+97,history,Command History,,,,,
+98,hostname,Print or set system name,,,,,
+99,htop,Interactive process viewer,,,,,
+100,iconv,Convert the character set of a file,,,,,
+101,id,Print user and group id's,,,,,
+102,if,Conditionally perform a command,,,,,
+103,ifconfig,Configure a network interface,,,,,
+104,ifdown,Stop a network interface,,,,,
+105,ifup,Start a network interface up,,,,,
+106,import,Capture an X server screen and save the image to file,,,,,
+107,install,Copy files and set attributes,,,,,
+108,iostat,Report CPU and i/o statistics,,,,,
+109,ip,"Routing, devices and tunnels",,,,,
+110,jobs,List active jobs •,,,,,
+111,join,Join lines on a common field,,,,,
+112,kill,Kill a process by specifying its PID,,,,,
+113,killall,Kill processes by name,,,,,
+114,klist,List cached Kerberos tickets,,,,,
+115,less,Display output one screen at a time,,,,,
+116,let,Perform arithmetic on shell variables •,,,,,
+117,link,Create a link to a file,,,,,
+118,ln,Create a symbolic link to a file,,,,,
+119,local,Create a function variable •,,,,,
+120,locate,Find files,,,,,
+121,logname,Print current login name,,,,,
+122,logout,Exit a login shell •,,,,,
+123,look,Display lines beginning with a given string,,,,,
+124,lpc,Line printer control program,,,,,
+125,lpr,Print files,,,,,
+126,lprm,Remove jobs from the print queue,,,,,
+127,lsattr,List file attributes on a Linux second extended file system,,,,,
+128,lsblk,List block devices,,,,,
+129,ls,List information about file(s),,,,,
+130,lsof,List open files,,,,,
+131,lspci,List all PCI devices,,,,,
+132,man,Help manual,,,,,
+133,mapfile,Read lines from standard input into an indexed array variable •,,,,,
+134,mkdir,Create new folder(s),,,,,
+135,mkfifo,Make FIFOs (named pipes),,,,,
+136,mkfile,Make a file,,,,,
+137,mknod,Make block or character special files,,,,,
+138,mktemp,Make a temporary file,,,,,
+139,more,Display output one screen at a time,,,,,
+140,most,Browse or page through a text file,,,,,
+141,mount,Mount a file system,,,,,
+142,mtools,Manipulate MS-DOS files,,,,,
+143,mtr,Network diagnostics (traceroute/ping),,,,,
+144,mv,Move or rename files or directories,,,,,
+145,mmv,Mass Move and rename (files),,,,,
+146,nc,"Netcat, read and write data across networks",,,,,
+147,netstat,Networking connections/stats,,,,,
+148,nft,nftables for packet filtering and classification,,,,,
+149,nice,Set the priority of a command or job,,,,,
+150,nl,Number lines and write files,,,,,
+151,nohup,Run a command immune to hangups,,,,,
+152,notify-send,Send desktop notifications,,,,,
+153,nslookup,Query Internet name servers interactively,,,,,
+154,open,Open a file in its default application,,,,,
+155,op,Operator access,,,,,
+156,passwd,Modify a user password,,,,,
+157,paste,Merge lines of files,,,,,
+158,Perf,Performance analysis tools for Linux,,,,,
+159,ping,Test a network connection,,,,,
+160,pgrep,List processes by name,,,,,
+161,pkill,Kill processes by name,,,,,
+162,popd,Restore the previous value of the current directory,,,,,
+163,pr,Prepare files for printing,,,,,
+164,printenv,Print environment variables,,,,,
+165,printf,Format and print data •,,,,,
+166,ps,Process status,,,,,
+167,pushd,Save and then change the current directory,,,,,
+168,pv,Monitor the progress of data through a pipe,,,,,
+169,pwd,Print Working Directory,,,,,
+170,quota,Display disk usage and limits,,,,,
+171,quotacheck,Scan a file system for disk usage,,,,,
+172,ram,ram disk device,,,,,
+173,rar,Archive files with compression,,,,,
+174,rcp,Copy files between two machines,,,,,
+175,read,Read a line from standard input •,,,,,
+176,readarray,Read from stdin into an array variable •,,,,,
+177,readonly,Mark variables/functions as readonly,,,,,
+178,rename,Rename files,,,,,
+179,return,Exit a shell function,,,,,
+180,rev,Reverse lines of a file,,,,,
+181,rm,Remove files,,,,,
+182,rmdir,Remove folder(s),,,,,
+183,rsync,Remote file copy (Synchronize file trees),,,,,
+184,screen,"Multiplex terminal, run remote shells via ssh",,,,,
+185,scp,Secure copy (remote file copy),,,,,
+186,sdiff,Merge two files interactively,,,,,
+187,sed,Stream Editor,,,,,
+188,select,Accept user choices via keyboard input,,,,,
+189,seq,Print numeric sequences,,,,,
+190,set,Manipulate shell variables and functions,,,,,
+191,setfacl,Set file access control lists.,,,,,
+192,sha256sum,Compute and check SHA256 (256-bit) checksums,,,,,
+193,shift,Shift positional parameters,,,,,
+194,shopt,Shell Options,,,,,
+195,shuf,Generate random permutations,,,,,
+196,shutdown,Shutdown or restart linux,,,,,
+197,sleep,Delay for a specified time,,,,,
+198,slocate,Find files,,,,,
+199,sort,Sort text files,,,,,
+200,source,Run commands from a file '.'  •,,,,,
+201,split,Split a file into fixed-size pieces,,,,,
+202,ss,Socket Statistics,,,,,
+203,ssh,Secure Shell client (remote login program),,,,,
+204,stat,Display file or file system status,,,,,
+205,strace,Trace system calls and signals,,,,,
+206,su,Substitute user identity,,,,,
+207,sudo,Execute a command as another user,,,,,
+208,sum,Print a checksum for a file,,,,,
+209,suspend,Suspend execution of this shell •,,,,,
+210,sync,Synchronize data on disk with memory,,,,,
+211,tabs,Set tabs on a terminal,,,,,
+212,tail,Output the last part of a file,,,,,
+213,tar,"Store, list or extract files in an archive",,,,,
+214,tee,Redirect output to multiple files,,,,,
+215,test,Evaluate a conditional expression,,,,,
+216,time,Measure Program running time,,,,,
+217,timeout,Run a command with a time limit,,,,,
+218,times,User and system times,,,,,
+219,tmux,Terminal multiplexer,,,,,
+220,touch,Change file timestamps,,,,,
+221,top,List processes running on the system,,,,,
+222,tput,"Set terminal-dependent capabilities, color, position",,,,,
+223,traceroute,Trace Route to Host,,,,,
+224,trap,Execute a command when the shell receives a signal •,,,,,
+225,tr,"Translate, squeeze, and/or delete characters",,,,,
+226,TRUE,"Do nothing, successfully",,,,,
+227,tsort,Topological sort,,,,,
+228,tty,Print filename of terminal on stdin,,,,,
+229,type,Describe a command •,,,,,
+230,ulimit,Limit user resources •,,,,,
+231,umask,Users file creation mask,,,,,
+232,unalias,Remove an alias •,,,,,
+233,uname,Print system information,,,,,
+234,unexpand,Convert spaces to tabs,,,,,
+235,uniq,Uniquify files,,,,,
+236,units,Convert units from one scale to another,,,,,
+237,unix2dos,UNIX to Windows or MAC text file format converter,,,,,
+238,unrar,Extract files from a rar archive,,,,,
+239,unset,Remove variable or function names,,,,,
+240,unshar,Unpack shell archive scripts,,,,,
+241,until,Execute commands (until error),,,,,
+242,useradd,Create new user account,,,,,
+243,userdel,Delete a user account,,,,,
+244,usermod,Modify user account,,,,,
+245,users,List users currently logged in,,,,,
+246,uuencode,Encode a binary file,,,,,
+247,uudecode,Decode a file created by uuencode,,,,,
+248,vi,Text Editor,,,,,
+249,vmstat,Report virtual memory statistics,,,,,
+250,w,Show who is logged on and what they are doing,,,,,
+251,wait,Wait for a process to complete •,,,,,
+252,watch,Execute/display a program periodically,,,,,
+253,wc,"Print byte, word, and line counts",,,,,
+254,whereis,"Search the user's $path, man pages and source files for a program",,,,,
+255,which,Search the user's $path for a program file,,,,,
+256,while,Execute commands,,,,,
+257,who,Print all usernames currently logged in,,,,,
+258,whoami,Print the current user id and name ('id -un'),,,,,
+259,write,Send a message to another user,,,,,
+260,xargs,"Execute utility, passing constructed argument list(s)",,,,,
+261,xdg-open,Open a file or URL in the user's preferred application.,,,,,
+262,xxd,Make a hexdump or do the reverse,,,,,
+263,xz,Compress or decompress .xz and .lzma files,,,,,
+264,yes,Print a string until interrupted,,,,,
+265,zip,Package and compress (archive) files,,,,,
+266,.,Run a command script in the current shell,,,,,
+267,!!,Run the last command again,,,,,
+268,###,Comment / Remark,,,,,
