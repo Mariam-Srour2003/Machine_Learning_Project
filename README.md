@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains my first machine learning project submitted for the course CSCI315: Web Application Development. The project focuses on building a Text Classification Model using a Multinomial Naive Bayes classifier.
+This repository contains my first machine learning project submitted for the course CSCI410: Artificial Intelligence and Machine Learning. The project focuses on building a Text Classification Model using a Multinomial Naive Bayes classifier.
 
 ## Project Structure
 
